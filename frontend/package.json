@@ -15,7 +15,7 @@
   "author": "tomoaki tsuruta",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
-    "axios": "^0.12.0",
+    "axios": "^0.19.2",
     "babel-core": "^6.13.1",
     "babel-loader": "^6.2.1",
     "babel-polyfill": "^6.13.0",
